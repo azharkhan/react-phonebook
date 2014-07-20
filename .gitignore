@@ -1,0 +1,5 @@
+.tmp/
+dist/
+*.old
+.sass-cache/
+node_modules/
