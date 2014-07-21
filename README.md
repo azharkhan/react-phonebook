@@ -1,6 +1,6 @@
 # Overview
 
-Building a simple Phonebook application using React and Firebase. Also leveraging Google's Web Starter Kit with Gulp for building and local development.
+Learning React through building a simple Phonebook application using React and Firebase. Also leveraging Google's Web Starter Kit with Gulp for building and local development.
 
 # Tools
 
